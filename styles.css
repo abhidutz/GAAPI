@@ -1,0 +1,206 @@
+
+body {
+font-family: monospace;
+font-size: 13px;
+font-style: normal;
+}
+
+user agent stylesheetbody {
+display: block;
+margin: 8px;
+}
+
+p.t{
+	position : absolute;   
+    top: 5px;
+margin-left: 1px;
+}
+p.one{position : absolute;   
+    top: 5px;
+margin-left: 395px;
+}
+p.two{position : absolute;   
+    top: 5px;
+margin-left: 780px;
+}
+p.three{position : absolute;   
+    top: 5px;
+margin-left: 1150px;
+}
+
+table.table0today {
+	position : absolute;   
+    top: 40px;
+   margin-left: 395px;
+
+}
+
+table.mergeToday {
+ 	position : absolute;   
+    top: 40px;
+   margin-left: 1px;
+
+}
+
+table.totalCompareWeekly {
+   margin-left: 1px;
+    position : absolute;   
+    top: 340px;
+}
+
+table.totalCompareMonthly {
+    margin-left: 1px;
+    position : absolute;   
+    top: 800px;
+}
+table.mergeDetailMonth{
+    margin-left: 1px;
+	position : absolute;   
+    top: 1334px;
+
+}
+
+table.mergeDetailYear {
+    margin-left: 1px;
+    position : absolute;   
+    top: 2000px;
+}
+
+
+table.table0today {
+	position : absolute;   
+    top: 40px;
+   margin-left: 395px;
+
+}
+table.compare0Weekly{
+    margin-left: 395px;
+    position : absolute;   
+    top: 340px;
+
+}
+table.table0lastWeek {
+display:none;
+}
+
+table.table0prevWeek {
+    display:none;
+}
+
+table.table0lastMonth {
+    display:none;
+}
+
+table.table0prevMonth {
+        display:none;}
+
+table.table0detailMonth {
+    margin-left: 395px;
+    position : absolute;   
+    top: 1334px;
+}
+table.compare0Monthly{
+    margin-left: 395px;
+	position : absolute;   
+    top: 800px;
+
+}
+
+table.table0detailYear {
+    margin-left: 395px;
+    position : absolute;   
+    top: 2000px;
+}
+
+table.table1today {
+    margin-left: 780px;
+    top: 40px;
+    position: absolute;
+   
+}
+table.compare1Weekly{
+    border-style: inset;
+    margin-left: 780px;
+    top: 340px;
+    position: absolute;
+
+}
+table.table1lastWeek {
+display:none;}
+
+table.table1prevWeek {
+    display:none;
+}
+
+table.compare1Monthly{
+    margin-left: 780px;
+	position : absolute;   
+    top: 800px;
+
+}
+table.table1lastMonth {
+   display:none;
+}
+table.table1prevMonth {
+   display:none;
+}
+table.table1detailMonth {
+    margin-left: 780px;
+    position: absolute;
+    top: 1334px
+;
+}
+table.table1detailYear {
+    margin-left: 780px;
+    position: absolute;
+    top: 2000px;
+}
+table.table2today {
+    margin-left: 1150px;
+    position: absolute;
+    top: 40px;
+}
+table.compare2Weekly{
+    margin-left: 1150px;
+    position: absolute;
+    top: 340px
+;
+
+}
+
+table.table2lastWeek {
+display:none;
+}
+
+table.table2prevWeek {
+    display:none;
+}
+
+
+table.compare2Monthly{
+    margin-left: 1150px;
+	position : absolute;   
+    top: 800px;
+
+}
+
+table.table2lastMonth {
+    display:none;
+}
+table.table2prevMonth{
+    display:none;}
+
+table.table2detailMonth {
+    margin-left: 1150px;
+    position: absolute;
+    top: 1334px
+;
+}
+
+table.table2detailYear {
+    margin-left: 1150px;
+    position: absolute;
+    top: 2000px
+;
+}
+
