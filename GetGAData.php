@@ -6,7 +6,7 @@ require_once '/google-api-php-client-master/src/Google/Service/Analytics.php';
 include_once "/google-api-php-client-master/examples/templates/base.php";
 
 session_start();
-echo "<!DOCTYPE html><html><head><script src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script><script src='http://localhost/api/api.js'></script></head><body><img id='loading' style='left:50%' src='/api/loading.gif'/><div id='content' style='display:none;'> <p class='t'>Total</p><p class='one'>www.privatefloor.com</p><p class='two'> www.privatefloor.co.uk</p><p class='three'>PrivatefloorES</p>";
+echo "<!DOCTYPE html><html><head><script src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script><script src='http://localhost/api/api.js'></script></head><body><img id='loading' style='left:50%' src='/api/loading.gif'/><div id='content' style='display:none;'> <p class='t'>Total</p><p class='one'>MYWEBSITE.COM</p><p class='two'> ANOTHER.MYWEBSITE.COM</p><p class='three'>ANOTHER.MYWEBSITE.COM</p>";
 /*
 /Add keys from google developer console after registering your app with google
 /
